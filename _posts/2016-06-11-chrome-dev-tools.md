@@ -6,7 +6,7 @@ These are a set of web authoring and debbuging tools built into google chrome.Th
 
 The development tools are used to track down layout issues,set javaScript breakpoints,get insights for code opimization,iterate,debug and profile your website.  
 
-1)ITERATE
+**ITERATE**
  a)inspect and edit pages and styles.
   Inspect and edit on the fly any element in the DOM tree in the Elements panel.
   View and change the CSS rules applied to any selected element in the Styles pane.
